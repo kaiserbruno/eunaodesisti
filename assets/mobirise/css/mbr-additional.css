@@ -1029,7 +1029,7 @@ section.lazy-placeholder:after {
   font-weight: 300;
 }
 .cid-rYeii0uC4g .number-wrap {
-  color: #ff0000;
+  color: #ffffff;
   border-color: rgba(255, 255, 255, 0.15);
   position: relative;
   display: inline-block;
@@ -1048,7 +1048,7 @@ section.lazy-placeholder:after {
   font-size: 55px;
   word-spacing: 0;
   line-height: 1.3;
-  color: #ff0000;
+  color: #ffffff;
 }
 .cid-rYeii0uC4g .period {
   display: block;
@@ -1070,10 +1070,10 @@ section.lazy-placeholder:after {
   text-transform: none;
   letter-spacing: 0;
   word-spacing: 0;
-  color: #ff0000;
+  color: #ffffff;
 }
 .cid-rYeii0uC4g .countdown-cont {
-  background: linear-gradient(45deg, #ffffff, #ffffff);
+  background: linear-gradient(45deg, #031e26, #149dcc);
   max-width: 700px;
   border-radius: 3px;
   margin: 0 auto;
@@ -1118,7 +1118,7 @@ section.lazy-placeholder:after {
 }
 .cid-rYeii0uC4g H4 {
   text-align: center;
-  color: #ff0000;
+  color: #ffffff;
 }
 .cid-rYeii0uC4g H2 {
   color: #ffffff;
